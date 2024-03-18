@@ -1,3 +1,4 @@
 *.png
 !cat.png
 password.txt
+data.txt
