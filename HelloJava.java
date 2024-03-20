@@ -1,3 +1,4 @@
 class HelloJava{
 	hello
+data
 }
